@@ -1,11 +1,16 @@
 _repo: Kaipara-or-experiences-of-a-settler-in-North-New-Zealand_64112
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64112-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Barlow, Peter W.
     gutenberg_agent_id: '52756'
     url: http://www.gutenberg.org/2009/agents/52756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64112#Kaipara-or-experiences-of-a-settler-in-North-New-Zealand
 gutenberg_issued: '2020-12-22'
 gutenberg_type: Text
 identifiers:
